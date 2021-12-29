@@ -6,4 +6,6 @@ My application & personal development ecosystem has been growing so much over th
 
 [Infrastructure](./INFRASTRUCTURE.md) = Information about the infrastructure that I have built for this ecosystem.
 
+[JVM Utilities](./JVM_UTILITIES.md) = Utility libraries I've written to support my JVM-based projects.
+
 [NPM Utilities](./NPM_UTILITIES.md) = Utility libraries I've written to support my NPM projects.
