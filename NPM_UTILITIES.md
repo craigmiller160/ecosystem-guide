@@ -10,4 +10,6 @@ This is a section covering all the utility libraries I've written to support my 
 
 [@craigmiller160/eslint-config-prettier](https://github.com/craigmiller160/eslint-config-prettier) = ESLint configuration to integrate Prettier.
 
+[@craigmiller160/eslint-config-ts](https://github.com/craigmiller160/eslint-config-ts) = Basic ESLint Config for TypeScript projects.
+
 I have had an ongoing effort to standardize my ESLint & Prettier projects. This has resulted in all of these libraries that can easily be combined together by extending their respective configurations
