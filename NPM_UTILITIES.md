@@ -21,3 +21,5 @@ I have had an ongoing effort to standardize my ESLint & Prettier projects. This 
 [@craigmiller160/eslint-config-vue3-ts](https://github.com/craigmiller160/eslint-config-vue3-ts) = Basic ESLint Config for Vue3 projects with TypeScript.
 
 [@craigmiller160/eslint-config-tree-shaking-import-restrictions](https://github.com/craigmiller160/eslint-config-tree-shaking-import-restrictions) = ESLint import restrictions to maximize the tree-shakability of projects.
+
+[@craigmiller160/eslint-config-jest](https://github.com/craigmiller160/eslint-config-jest) = ESLint configuration for Jest.
