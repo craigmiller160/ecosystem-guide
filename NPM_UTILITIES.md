@@ -4,6 +4,10 @@ This is a section covering all the utility libraries I've written to support my 
 
 ## ESLint & Prettier
 
-[eslint-config-js](https://github.com/craigmiller160/eslint-config-js) = Basic ESLint Config for JavaScript projects.
+[@craigmiller160/eslint-config-js](https://github.com/craigmiller160/eslint-config-js) = Basic ESLint Config for JavaScript projects.
+
+[@craigmiller160/prettier-config](https://github.com/craigmiller160/prettier-config) = Basic Prettier Config for JavaScript & TypeScript projects.
+
+[@craigmiller160/eslint-config-prettier](https://github.com/craigmiller160/eslint-config-prettier) = ESLint configuration to integrate Prettier.
 
 I have had an ongoing effort to standardize my ESLint & Prettier projects. This has resulted in all of these libraries that can easily be combined together by extending their respective configurations
