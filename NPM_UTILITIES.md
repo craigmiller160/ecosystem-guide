@@ -14,4 +14,8 @@ This is a section covering all the utility libraries I've written to support my 
 
 [@craigmiller160/eslint-config-react](https://github.com/craigmiller160/eslint-config-react) = Basic ESLint Config for React projects.
 
+[@craigmiller160/eslint-config-vue3](https://github.com/craigmiller160/eslint-config-vue3) = Basic ESLint Config for Vue3 projects.
+
+[@craigmiller160/eslint-config-vue3-ts](https://github.com/craigmiller160/eslint-config-vue3-ts) = Basic ESLint Config for Vue3 projects with TypeScript.
+
 I have had an ongoing effort to standardize my ESLint & Prettier projects. This has resulted in all of these libraries that can easily be combined together by extending their respective configurations
