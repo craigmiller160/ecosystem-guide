@@ -40,6 +40,14 @@ Here are libraries with pre-built Jest configs to use in projects.
 
 [@craigmiller160/jest-config-ts](https://github.com/craigmiller160/jest-config-ts) = Jest addon config to provide TypeScript support.
 
+## Webpack
+
+Here are libraries to support pre-built Webpack configs
+
+[@craigmiller160/postcss-config](https://github.com/craigmiller160/postcss-config) = PostCSS configuration, separated out so it can be used by multiple webpack config libraries.
+
+[@craigmiller160/webpack-config](https://github.com/craigmiller160/webpack-config) = The basic JavaScript/HTML/CSS/Image/Font support for using Webpack.
+
 ## Random Libraries
 
 Just some random additional libraries I've written.
