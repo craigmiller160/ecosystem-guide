@@ -24,6 +24,14 @@ I have had an ongoing effort to standardize my ESLint & Prettier projects. This 
 
 [@craigmiller160/eslint-config-jest](https://github.com/craigmiller160/eslint-config-jest) = ESLint configuration for Jest.
 
+## Babel
+
+Here are libraries with pre-build Babel configs to use in projects.
+
+[@craigmiller160/babel-config](https://github.com/craigmiller160/babel-config) = Basic Babel config for projects.
+
+[@craigmiller160/babel-config-react](https://github.com/craigmiller160/babel-config-react) = Babel config addon for React projects.
+
 ## Jest
 
 Here are libraries with pre-built Jest configs to use in projects.
