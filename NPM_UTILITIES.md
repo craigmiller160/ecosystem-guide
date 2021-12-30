@@ -30,6 +30,8 @@ Here are libraries with pre-built Jest configs to use in projects.
 
 [@craigmiller160/jest-config](https://github.com/craigmiller160/jest-config) = Basic Jest configuration with library recompiling to avoid ESModule clashes.
 
+[@craigmiller160/jest-config-ts](https://github.com/craigmiller160/jest-config-ts) = Jest addon config to provide TypeScript support.
+
 ## Random Libraries
 
 Just some random additional libraries I've written.
