@@ -23,3 +23,9 @@ I have had an ongoing effort to standardize my ESLint & Prettier projects. This 
 [@craigmiller160/eslint-config-tree-shaking-import-restrictions](https://github.com/craigmiller160/eslint-config-tree-shaking-import-restrictions) = ESLint import restrictions to maximize the tree-shakability of projects.
 
 [@craigmiller160/eslint-config-jest](https://github.com/craigmiller160/eslint-config-jest) = ESLint configuration for Jest.
+
+## Random Libraries
+
+Just some random additional libraries I've written.
+
+[@craigmiller160/config-merge](https://github.com/craigmiller160/config-merge) = A utility library for merging Babel or Jest configuration templates together.
