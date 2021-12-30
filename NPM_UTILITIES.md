@@ -24,6 +24,12 @@ I have had an ongoing effort to standardize my ESLint & Prettier projects. This 
 
 [@craigmiller160/eslint-config-jest](https://github.com/craigmiller160/eslint-config-jest) = ESLint configuration for Jest.
 
+## Jest
+
+Here are libraries with pre-built Jest configs to use in projects.
+
+[@craigmiller160/jest-config](https://github.com/craigmiller160/jest-config) = Basic Jest configuration with library recompiling to avoid ESModule clashes.
+
 ## Random Libraries
 
 Just some random additional libraries I've written.
