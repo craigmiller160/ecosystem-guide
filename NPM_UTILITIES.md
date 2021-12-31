@@ -48,6 +48,10 @@ Here are libraries to support pre-built Webpack configs
 
 [@craigmiller160/webpack-config](https://github.com/craigmiller160/webpack-config) = The basic JavaScript/HTML/CSS/Image/Font support for using Webpack.
 
+[@craigmiller160/webpack-config-sass](https://github.com/craigmiller160/webpack-config-sass) = A webpack config addon with support for SASS.
+
+[@craigmiller160/webpack-config-ts](https://github.com/craigmiller160/webpack-config-ts) = A webpack config addon with support for TypeScript.
+
 ## Random Libraries
 
 Just some random additional libraries I've written.
