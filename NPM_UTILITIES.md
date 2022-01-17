@@ -59,3 +59,5 @@ Just some random additional libraries I've written.
 [@craigmiller160/config-merge](https://github.com/craigmiller160/config-merge) = A utility library for merging Babel or Jest configuration templates together.
 
 [@craigmiller160/jest-matchers-common](https://github.com/craigmiller160/jest-matchers-common) = Just some Jest matchers I've written.
+
+[@craigmiller160/ts-functions](https://github.com/craigmiller160/ts-functions) = A library of functional-programming style functions I've written to support various tasks I've done.
