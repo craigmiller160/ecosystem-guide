@@ -30,6 +30,8 @@ Here are libraries with pre-build Babel configs to use in projects.
 
 [@craigmiller160/babel-config](https://github.com/craigmiller160/babel-config) = Basic Babel config for projects.
 
+[@craigmiller160/babel-config-core-polyfills](https://github.com/craigmiller160/babel-config-core-polyfills) = Additional babel config to support polyfills in the browser.
+
 [@craigmiller160/babel-config-react](https://github.com/craigmiller160/babel-config-react) = Babel config addon for React projects.
 
 ## Jest
