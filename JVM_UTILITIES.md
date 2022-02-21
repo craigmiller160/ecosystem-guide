@@ -17,3 +17,7 @@ All authentication/authorization for all applications is delegated to the `sso-o
 Just some random libraries I've written.
 
 [@craigmiller160/spring-web-utils](https://github.com/craigmiller160/spring-web-utils) = Utility code I wrote to support Spring Boot web applications.
+
+[@craigmiller160/legacy-date-converter](https://github.com/craigmiller160/legacy-date-converter) = An older library containing re-usable functions for converting between the different Java date APIs.
+
+
